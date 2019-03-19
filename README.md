@@ -1,6 +1,6 @@
 # otsu_py
-otsu method python openCV版本 <
-otus method 為一種圖像二值化(Binarization)的方法/n
+otsu method python openCV版本    
+otus method 為一種圖像二值化(Binarization)的方法/n    
 目的: 找出最佳門檻值Th使得圖像能夠被區分為兩個集合(D:暗L:量)/n
 必須符合兩個條件:
 D與L間的變異數為最大
